@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack application**
 
-- 🌱 I’m currently learning **REACT , NEXTJS**
+- 🌱 I’m currently learning **Data Structures and algorithms , **REACT , NEXTJS**
 
 - 💬 Ask me about **MERN , Algorithms**
 
