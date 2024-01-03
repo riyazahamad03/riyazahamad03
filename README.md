@@ -30,7 +30,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyazahamad03&" alt="riyazahamad03" /></p>
 
-<p>![LeetCode Stats](https://leetcard.jacoblin.cool/riyazahamad03?theme=light&font=ABeeZee&ext=heatmap)</p>
 
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/riyazahamad03?theme=light&font=ABeeZee&ext=heatmap)
 
 
