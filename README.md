@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyazahamad03&show_icons=true&locale=en" alt="riyazahamad03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyazahamad03&" alt="riyazahamad03" /></p>
-<p>![LeetCode Stats](https://leetcard.jacoblin.cool/riyazahamad03?theme=light&font=Libre%20Baskerville&ext=heatmap)</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/riyazahamad03?theme=light&font=Libre%20Baskerville&ext=heatmap)
