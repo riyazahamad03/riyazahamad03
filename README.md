@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Riyaz Ahamed</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -8,11 +7,13 @@
 
 - 🔭 I’m currently working on **Full Stack application**
 
-- 🌱 I’m currently learning **Data Structures and algorithms , **REACT , NEXTJS**
+- 🌱 I’m currently learning **Data Structures and Algorithms , ReactJs , NextJs**
 
 - 💬 Ask me about **MERN , Algorithms**
 
 - 📫 How to reach me **riyazahameddo@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WGCAdEO9bR8HxDXu5hKuKp34NaXZFnZK/view?usp=drive_link](https://drive.google.com/file/d/1WGCAdEO9bR8HxDXu5hKuKp34NaXZFnZK/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
