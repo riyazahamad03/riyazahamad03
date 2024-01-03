@@ -33,4 +33,4 @@
 
 
 
-![LeetCode Stats](https://leetcode-card.vercel.app/api/card?username=riyazahamad03&style=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/riyazahamad03?theme=light&font=ABeeZee&ext=heatmap)
